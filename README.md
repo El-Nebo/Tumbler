@@ -19,6 +19,10 @@
 Tumblr </a> application where Kotlin is the programming language used.
 - This project aims to mimic most of Tumblr's features.
 - The architecture used is MVVM.
+- Junit was used for unit testing 
+- Ktlinter was used as a linter.
+- Koin was used for dependency injection.
+- Dokka was used for functional documentation.
 
 ## Project Demo 
  <p align="center">
